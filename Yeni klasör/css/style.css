@@ -1,11 +1,7 @@
-.resimSlider {
-    height: 500px;
-    
 
-}
 body{
     padding-top: 50px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .hakkimda{
     background-color:lavender;
@@ -37,6 +33,7 @@ body{
 }
 .ozgeçmişim{
     background-color:#ffcccc;
+
 }
 .sehrim{
     background-color:  #e6faff;
@@ -120,4 +117,6 @@ body{
 }
 input,textarea{width:100%; padding:12px 20 px ; margin: 4px 0; box-sizing: border-box; border-radius: 5px;}
 button[type=gönder] { background-color:   #4dffff; color #ffffff; cursor: pointer; font-size : 20px; }
-
+.yazırengi{
+    color: black;
+}
