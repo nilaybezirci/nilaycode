@@ -1,0 +1,40 @@
+@media (min-width:319px) and (max-width:564px){
+    .ozgeçmişim{
+        width: auto;
+      
+    }
+}
+.ozgeçmişimayrac{
+    border:none;
+    border-top: 5px solid rgb(49, 154, 161);
+    max-width: 350px;
+    height: 5px;
+    margin: 2px auto;
+    margin-left: 0em;
+    
+    
+    
+}
+#liste> li {
+    list-style: none;
+    position: relative;
+    float: left;
+}
+.artliste{
+    max-width: 400px;
+    border-style:groove;
+    border-color: brown; 
+    margin: auto;
+    height: 270px;
+}
+body{
+    background-color:#ffcccc ;
+}
+.ozgeçmişim{
+    height: 500px;
+}
+.okullarfoto{
+    width: auto;
+    height:auto;
+}
+
