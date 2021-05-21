@@ -1,7 +1,7 @@
 
 body{
     padding-top: 50px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .hakkimda{
     background-color:lavender;
@@ -17,6 +17,7 @@ body{
     color:purple;
     position: relative ; 
     top : -47px;
+   
     font-size : 35px;
     border: 10px solid lavender;
     background-color:lavender;
@@ -26,6 +27,7 @@ body{
     color: purple;
     position: relative ; 
     top : -47px;
+   
     font-size : 35px;
     border: 10px solid #ffcccc;
     background-color:#ffcccc;
@@ -87,6 +89,7 @@ body{
 }
 .login{
     background-color: #ffe6e6 ;
+  
 }
 .iyeşil{
     color: purple;
@@ -117,4 +120,54 @@ body{
 }
 input,textarea{width:100%; padding:12px 20 px ; margin: 4px 0; box-sizing: border-box; border-radius: 5px;}
 button[type=gönder] { background-color:   #4dffff; color #ffffff; cursor: pointer; font-size : 20px; }
+.yazırengi{
+    color: black;
+}
 
+
+ 
+.hakkimdastyle{
+  
+width: 1000px;
+margin:auto;
+}
+.sola-kaydir{
+float:left;
+
+width: 98%;
+}
+
+@media only screen and (max-width:0px){
+    .a img {
+        width: 100%;
+    }
+   div {
+       width:100%;
+    }
+}
+ 
+@media (min-width:320px) and (max-width:768px) {
+   .iletisimformu{
+     margin:auto;
+     width: auto;
+     height: auto;
+   }
+}
+@media (min-width:320px) and (max-width:768px) {
+    .logins{
+     margin :auto;
+      width: auto;
+      height: auto;
+      
+    }
+ }
+
+ footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  .özgecmisimfooter{
+      margin-top: 116px;
+  }
