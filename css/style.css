@@ -137,14 +137,14 @@ float:left;
 width: 98%;
 }
 
-@media only screen and (max-width:0px){
+/* @media only screen and (max-width:0px){
     .a img {
         width: 100%;
     }
    div {
        width:100%;
     }
-}
+} */
  
 @media (min-width:320px) and (max-width:768px) {
    .iletisimformu{
@@ -170,4 +170,12 @@ width: 98%;
   }
   .özgecmisimfooter{
       margin-top: 116px;
+  }
+  .hakkimdafotograf{
+      width: 400px;
+  }
+  .hakkimdayazi{
+      float: right;
+    
+padding:0 10px 10px 0;
   }
